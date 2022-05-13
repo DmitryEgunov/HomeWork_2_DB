@@ -10,4 +10,4 @@
 
 **Результат**
 
-!<https://github.com/DmitryEgunov/HomeWork_2_DB/blob/master/tables.png>
+![](https://github.com/DmitryEgunov/HomeWork_2_DB/blob/master/tables.png)
